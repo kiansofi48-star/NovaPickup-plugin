@@ -1,0 +1,5 @@
+me\novapixel\novapickup\NovaPickupCommand.class
+me\novapixel\novapickup\NovaPickup.class
+me\novapixel\novapickup\PickupManager.class
+me\novapixel\novapickup\PickupRule.class
+me\novapixel\novapickup\BlockPickupListener.class

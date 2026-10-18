@@ -1,0 +1,20 @@
+# NovaPickup
+
+# فقط این Worldها فعال هستند
+worlds:
+  - skymine
+
+# تنظیمات بلاک‌ها
+blocks:
+
+  STONE:
+    drop: DIAMOND
+    amount: 3
+
+  COAL_ORE:
+    drop: COAL
+    amount: 4
+
+  IRON_ORE:
+    drop: IRON_INGOT
+    amount: 2

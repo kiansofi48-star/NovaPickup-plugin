@@ -1,0 +1,19 @@
+name: NovaPickup
+version: 1.0.0
+main: me.novapixel.novapickup.NovaPickup
+api-version: '1.21'
+author: NovaPixel
+description: Block pickup system for SkyMine
+
+commands:
+  novapickup:
+    description: Manage NovaPickup
+    usage: /novapickup <add|delete|edit|reload>
+    permission: novapickup.admin
+    aliases:
+      - npickup
+
+permissions:
+  novapickup.admin:
+    description: Allows managing NovaPickup
+    default: op
